@@ -1,5 +1,5 @@
 //
-//  LPViewController.h
+//  LPTableViewController.h
 //  TableViewchallenge
 //
 //  Created by Luis Pinto on 08/05/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LPViewController : UIViewController
+@interface LPTableViewController : UITableViewController
 
 @end
